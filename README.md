@@ -6,7 +6,7 @@ world by taking control over every other city under a certain amount of turns. I
 achieve this goal, the player have the option of building various types of building in any city he
 has control over and also build armies in order to conquer other cities.
   + Winning/Loosing
-The player will win if he managed to conquer all cities available in the game under the determined amounts of turns. If these turns passed and the player did not achieve this goal, this is
+The player will win if he managed to conquer all cities available in the game under the determined amounts of turns. If these turns passed and the player did not achieve this goal, this is
 considered a loss.
 
 ## Technologies used 
